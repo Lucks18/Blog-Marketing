@@ -58,8 +58,9 @@ function criarCabecalho(cabecalhos) {
          menuButton.addEventListener("click", () => {
             mobileMenu.classList.toggle("open");
          });
- 
 
+
+         
 
         // Montar o cabeçalho
         header.appendChild(logo);
